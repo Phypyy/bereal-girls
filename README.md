@@ -26,12 +26,17 @@
 
 [@brainna84602](https://bere.al/brianna84602)
 
+[@brooke.nield](https://bere.al/brooke.nield)
+
 -----
 ### C
 -----
 ### D
 -----
 ### E
+
+[@elimargret](https://bere.al/elimargret)
+
 -----
 ### F
 -----
