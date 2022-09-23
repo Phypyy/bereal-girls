@@ -41,6 +41,9 @@
 ### F
 -----
 ### G
+
+[@gabalicious23](https://bere.al/gabalicious23)
+
 -----
 ### H
 -----
@@ -56,6 +59,8 @@
 
 -----
 ### M
+
+[@marellaruata](https://bere.al/marellaruata)
 
 [@mxllyander](https://bere.al/mxllyander)
 
@@ -73,6 +78,9 @@
 ### S
 -----
 ### T
+
+[@tayladening](https://bere.al/tayladening)
+
 -----
 ### U
 -----
