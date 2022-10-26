@@ -1,4 +1,12 @@
 # bereal-girls
+
+[![Generic badge](https://img.shields.io/badge/version-0.1.0-green.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/os-iOS-green.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/os-Android-green.svg)](https://shields.io/)
+
+[![GitHub forks](https://badgen.net/github/forks/Phypyy/bereal-girls/)](https://GitHub.com/Phypyy/bereal-girls/network/)
+[![GitHub watchers](https://badgen.net/github/watchers/Phypyy/bereal-girls/)](https://GitHub.com/Phypyy/bereal-girls/watchers/)
+
 >**Note**
 >Username of (Cute) girls in Bereal
 
